@@ -1,0 +1,181 @@
+{
+    "movies":
+    [
+    {
+        "movieImg":"images/poster 1.png",
+        "movieTitle":"LOKI",
+        "movieDescription":"Lorem ipsum sit amet",
+        "movieCategory":"Friday releases"
+    },
+    {
+        "movieImg":"images/poster 2.png",
+        "movieTitle":"MULAN",
+        "movieDescription":"Lorem ipsum sit amet",
+        "movieCategory":"Friday releases"
+    },
+    {
+        "movieImg":"images/poster 3.png",
+        "movieTitle":"FALCON",
+        "movieDescription":"Lorem ipsum sit amet",
+        "movieCategory":"Friday releases"
+    },
+    {
+        "movieImg":"images/poster 8.png",
+        "movieTitle":"SOUL",
+        "movieDescription":"Lorem ipsum sit amet",
+        "movieCategory":"Friday releases"
+    },
+    {
+        "movieImg":"images/poster 1.png",
+        "movieTitle":"LOKI",
+        "movieDescription":"Lorem ipsum sit amet",
+        "movieCategory":"Friday releases"
+    },
+    {
+        "movieImg":"images/poster 6.png",
+        "movieTitle":"AVENGERS",
+        "movieDescription":"Lorem ipsum sit amet",
+        "movieCategory":"Friday releases"
+    },
+    {
+        "movieImg":"images/poster 11.png",
+        "movieTitle":"FORD VS FERRARI",
+        "movieDescription":"Lorem ipsum sit amet",
+        "movieCategory":"Friday releases"
+    },
+    {
+        "movieImg":"images/poster 12.png",
+        "movieTitle":"DARK PHEONIX",
+        "movieDescription":"Lorem ipsum sit amet",
+        "movieCategory":"Friday releases"
+    },
+    {
+        "movieImg":"images/poster 8.png",
+        "movieTitle":"The Empire",
+        "movieDescription":"Lorem ipsum sit amet",
+        "movieCategory":"Friday releases"
+    },
+    {
+        "movieImg":"images/poster 2.png",
+        "movieTitle":"Loki",
+        "movieDescription":"Lorem ipsum sit amet",
+        "movieCategory":"Friday releases"
+    },
+    {
+        "movieImg":"images/poster 4.png",
+        "movieTitle":"Wizard Z",
+        "movieDescription":"Lorem ipsum sit amet ",
+        "movieCategory":"Friday releases"
+    },
+    {
+        "movieImg":"images/poster 3.png",
+        "movieTitle":"Super Girl",
+        "movieDescription":"Lorem ipsum sit amet ",
+        "movieCategory":"Friday releases"
+    },
+    {
+        "movieImg":"images/poster 1.png",
+        "movieTitle":"The Dark Knight",
+        "movieDescription":"Lorem ipsum sit amet",
+        "movieCategory":"Coming Soon"
+    },
+    {
+        "movieImg":"images/poster 5.png",
+        "movieTitle":"Hunter Killer",
+        "movieDescription":"Lorem ipsum sit amet ",
+        "movieCategory":"Coming Soon"
+    },
+    {
+        "movieImg":"images/poster 8.png",
+        "movieTitle":"Bloodshot",
+        "movieDescription":"Lorem ipsum sit amet",
+        "movieCategory":"Coming Soon"
+    },{
+        "movieImg":"images/poster 7.png",
+        "movieTitle":"Stranger Things",
+        "movieDescription":"Lorem ipsum sit amet",
+        "movieCategory":"Coming Soon"
+    },{
+        "movieImg":"images/poster 9.png",
+        "movieTitle":"Over The Moon",
+        "movieDescription":"Lorem ipsum sit amet",
+        "movieCategory":"Coming Soon"
+    },{
+        "movieImg":"images/poster 11.png",
+        "movieTitle":"Dragon Ball Z",
+        "movieDescription":"Lorem ipsum sit amet",
+        "movieCategory":"Coming Soon"
+    },{
+        "movieImg":"images/poster 10.png",
+        "movieTitle":"Captain Marvel",
+        "movieDescription":"Lorem ipsum sit amet",
+        "movieCategory":"Coming Soon"
+    },{
+        "movieImg":"images/poster 12.png",
+        "movieTitle":"Black Widow",
+        "movieDescription":"Lorem ipsum sit amet",
+        "movieCategory":"Coming Soon"
+    },{
+        "movieImg":"images/poster 1.png",
+        "movieTitle":"The Ant Man",
+        "movieDescription":"Lorem ipsum sit amet ",
+        "movieCategory":"Coming Soon"
+    },{
+        "movieImg":"images/poster 2.png",
+        "movieTitle":"Guardians of the galaxy",
+        "movieDescription":"Lorem ipsum sit amet",
+        "movieCategory":"Coming Soon"
+    },
+    {
+        "movieImg":"images/poster 3.png",
+        "movieTitle":"FALCON",
+        "movieDescription":"Lorem ipsum sit amet",
+        "movieCategory":"Top Rated"
+    },{
+        "movieImg":"images/poster 4.png",
+        "movieTitle":"AVENGERS",
+        "movieDescription":"Lorem ipsum sit amet",
+        "movieCategory":"Top Rated"
+    },{
+        "movieImg":"images/poster 5.png",
+        "movieTitle":"THOR",
+        "movieDescription":"Lorem ipsum sit amet",
+        "movieCategory":"Top Rated"
+    },{
+        "movieImg":"images/poster 6.png",
+        "movieTitle":"Chaddi",
+        "movieDescription":"Lorem ipsum sit amet",
+        "movieCategory":"Top Rated"
+    },{
+        "movieImg":"images/poster 7.png",
+        "movieTitle":"Super 30",
+        "movieDescription":"Lorem ipsum sit amet",
+        "movieCategory":"Top Rated"
+    },{
+        "movieImg":"images/poster 8.png",
+        "movieTitle":"Geeta Govindam",
+        "movieDescription":"Lorem ipsum sit amet",
+        "movieCategory":"Top Rated"
+    },{
+        "movieImg":"images/poster 9.png",
+        "movieTitle":"The Big Bull",
+        "movieDescription":"Lorem ipsum sit amet",
+        "movieCategory":"Top Rated"
+    },{
+        "movieImg":"images/poster 10.png",
+        "movieTitle":"Luca",
+        "movieDescription":"Lorem ipsum sit amet",
+        "movieCategory":"Top Rated"
+    },{
+        "movieImg":"images/poster 11.png",
+        "movieTitle":"Chhichhore",
+        "movieDescription":"Lorem ipsum sit amet",
+        "movieCategory":"Top Rated"
+    },{
+        "movieImg":"images/poster 12.png",
+        "movieTitle":"Raid",
+        "movieDescription":"Lorem ipsum sit amet ",
+        "movieCategory":"Top Rated"
+    }
+    ]
+}

@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="images/play (1).png" type="image/png" />
+    <title>Binge</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://kit.fontawesome.com/2274521e05.js" crossorigin="anonymous"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+
+</head>
+<body>
+    <header>
+        <input type="checkbox" name="" id="chk1">
+        <div class="logo">
+            <h2>Binge!</h2>
+        </div>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="movies.html">Movies</a></li>
+            <li><a href="#">My List</a></li>
+            <li><a href="login.html">Login</a></li>
+            <label for="chk1" class="menu-close">
+                <i class="fas fa-times-circle"></i>
+            </label>
+        </ul>
+        <div class="search">
+            <input type="text" name="search" id="srch">
+            <button type="submit">Search</button>
+        </div>
+        <label for="chk1" class="menu-open">
+            <i class="fas fa-bars menu"></i>
+        </label>
+    </header>
+
+    <div class="carousel-container">
+        <div class="carousel">
+            <div class="slider">
+                <div class="slide-content">
+                    <h1 class="movie-title">Wanda Vision</h1>
+                    <p class="movie-des">Marvel Studios' captivating new series "WandaVision," which premieres in early 2021 on Disney+.The series which Wanda Maximoff and Vision—two 
+                        super-powered is not as it seems.</p>
+                        <a href="#" class="play" onclick="toggle();"><img src="images/play.png" alt="">watch now</a>
+                </div>
+                <img src="images\slider 3.PNG" alt="">
+            </div>
+        </div>
+    </div>
+    <div class="trailer">
+        <video src="videos/marvel.mp4" controls="true"></video>
+        <img src="images/close.png" alt="" class="close" onclick="toggle();">
+    </div>
+
+    <footer id="footer">
+        <i class="social-icon fa fa-facebook"></i>
+        <i class="social-icon fa fa-twitter"></i>
+        <i class="social-icon fa fa-instagram"></i>
+        <i class="social-icon fa fa-youtube"></i>
+        <p>© Copyright 2020 Binge</p>
+    </footer>
+
+
+    <script>
+        function toggle(){
+        var trailer=document.querySelector('.trailer');
+        let video=document.querySelector('.video');
+        trailer.classList.toggle('active');
+        video.currentTime = 0;
+        video.pause();
+    }
+    </script>
+</body>
+</html>
